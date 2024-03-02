@@ -6,7 +6,7 @@
 ## Skills 🛠️
 - **Languages:** JavaScript Fundementals
 - **Web Development:** HTML, CSS, Tailwind CSS
-- **Version Control:** Still learning to use Git and GitHub
+- **Version Control:** Git and GitHub
     
 ## Projects 🐱‍💻
 Here are a few projects I've worked on:
