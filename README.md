@@ -11,7 +11,7 @@
 ## Projects 🐱‍💻
 Here are a few projects I've worked on:
 
-1. **Project 1:** [Project Name](link) - Brief description.
+1. **Project 1:** [CodeSpace Cat](https://github.com/KemisoMalatsi/KEMMAL529_BCL2401_GroupC_KemisoMalatsi_SDF01.git) - Brief description.
 2. **Project 2:** [Project Name](link) - Brief description.
 3. **Project 3:** [Project Name](link) - Brief description.
 
