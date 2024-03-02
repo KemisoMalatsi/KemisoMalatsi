@@ -13,7 +13,7 @@ Here are a few projects I've worked on:
 
 1. **Project 1:** [CodeSpace Cat HTML Portfolio](https://github.com/KemisoMalatsi/KEMMAL529_BCL2401_GroupC_KemisoMalatsi_SDF01.git)
 2. **Project 2:** [Instagram Profile-Codespace Pets](https://github.com/KemisoMalatsi/KEMMAL529_BCL2401_GroupC_KemisoMalatsi_SDF06.git)
-3. **Project 3:** [Mobile Shopping App]()
+3. **Project 3:** [Mobile Shopping App](https://github.com/KemisoMalatsi/https-github.com-KemisoMalatsi-KEMMAL529_BCL2401_GroupC_KemisoMalatsi_SDF07....git)
 4. **Project 4:** [Tailwind Footer](https://github.com/KemisoMalatsi/BCL2401_GroupC_KemisoMalatsi_SDF09.git)
 5. **Project 5:** [Cache Bank Business Landing Page Portfolio Piece](https://github.com/KemisoMalatsi/KEMMAL529_BCL2401_GroupC_KemisoMalatsi_SDF11.git)
 
