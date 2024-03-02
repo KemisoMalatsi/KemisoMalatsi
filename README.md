@@ -16,7 +16,7 @@ Here are a few projects I've worked on:
 3. **Project 3:** [Project Name](link) - Brief description.
 
 ## Current Focus 👀
-- I'm currently focusing on:
+I'm currently focusing on:
 - Completing my software engineering qualification.
 - Exploring new JavaScript frameworks and libraries.
 - Improving my Python skills through online courses.
