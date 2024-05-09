@@ -12,7 +12,7 @@
 Here are a few projects I've worked on:
 
 1. **Project 1:** [To-do APP](https://github.com/KemisoMalatsi/JSL_Portfolio_Piece_KEMMAL529_BCL2401_Group-C_KEMISO-MALATSI_JSL11.git)
-2. **Project 2:** [](https://github.com/KemisoMalatsi/KEMMAL529_BCL2401_C_KEMISO-MALATSI_DJS01.git)
+2. **Project 2:** [Robust Calculation System](https://github.com/KemisoMalatsi/KEMMAL529_BCL2401_C_KEMISO-MALATSI_DJS01.git)
 
 ## Current Focus 👀
 I'm currently focusing on:
