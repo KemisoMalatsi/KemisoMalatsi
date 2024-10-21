@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Kemiso Malatsi 👋<br><br>🔭 Cybersecurity enthusiast and a self-taught developer.<br>🌱 I want to contribute to open-source projects.🤔<br><br>💬 Ask me about programming, Hacking or anything related to IT.<br>😄 Fun fact: I named my Wi-Fi router 'Rootkit'—because I like keeping people on their toes!
+Hi there, I'm Kemiso Malatsi 👋<br>🔭 Cybersecurity enthusiast and a self-taught developer.<br>🌱 I want to contribute to open-source projects.🤔<br>💬 Ask me about programming, Hacking or anything related to IT.<br>😄 Fun fact: I named my Wi-Fi router 'Rootkit'—because I like keeping people on their toes!
 
 
 ## 🌐 Socials:
