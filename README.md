@@ -13,13 +13,11 @@ Hi there, I'm Kemiso Malatsi 👋<br>🔭 Cybersecurity enthusiast and a self-ta
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kemiso malatsi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kemiso malatsi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-
-
-
+ COMMING SOON
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
