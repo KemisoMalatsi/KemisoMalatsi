@@ -15,7 +15,7 @@ Hi there, I'm Kemiso Malatsi 👋<br>🔭 Cybersecurity enthusiast.<br>🌱 I wa
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kemisomalatsi&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Tech Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko)
 
 ### 🔝 Top Contributed Repo
