@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi there, I'm Kemiso Malatsi 👋<br>🔐 Cybersecurity professional with a passion for programming and secure systems.<br>💻 I build, break, and protect software — blending code with cybersecurity.<br>🌱 Passionate about open-source, ethical hacking, and secure software practices. <br>💬 Let's talk about ethical hacking, secure coding, or anything tech-related..<br>😄 Fun fact: Every time I change my password, I also change my dog’s name.<br>
 
-# Projects
+# 🛠️Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
