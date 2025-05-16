@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Kemiso Malatsi 👋<br>🔭 Cybersecurity enthusiast.<br>🌱 I want to contribute to open-source projects.🤔<br>💬 Ask me about cybersecurity, Hacking or anything related to IT.<br>😄 Fun fact: Everytime  I change my password I also change my dog's name<br>
+Hi there, I'm Kemiso Malatsi 👋<br>🔭 Cybersecurity professional with a passion for programming and secure systems.<br>💻 I build, break, and protect software — blending code with cybersecurity.<br>🌱 Passionate about open-source, ethical hacking, and secure software practices. <br>💬 Let's talk about ethical hacking, secure coding, or anything tech-related..<br>😄 Fun fact: Every time I change my password, I also change my dog’s name.<br>
 
 
 ## 🌐 Socials:
