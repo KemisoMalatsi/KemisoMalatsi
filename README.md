@@ -1,6 +1,17 @@
 # 💫 About Me:
 Hi there, I'm Kemiso Malatsi 👋<br>🔐 Cybersecurity professional with a passion for programming and secure systems.<br>💻 I build, break, and protect software — blending code with cybersecurity.<br>🌱 Passionate about open-source, ethical hacking, and secure software practices. <br>💬 Let's talk about ethical hacking, secure coding, or anything tech-related..<br>😄 Fun fact: Every time I change my password, I also change my dog’s name.<br>
 
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| 🔍 Active Directory Lab (Attack & Defend)     | <a href="https://google.com">Detection Lab</a>|
+| Custom Honeypot Project  | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kemiso-malatsi-4673022b8/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_nobody412?_t=ZM-8tR8nzbc1HZ&_r=1) 
