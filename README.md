@@ -12,7 +12,7 @@ Hi there, I'm Kemiso Malatsi 👋<br>🔐 Cybersecurity professional with a pass
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-#📜 Certifications
+# 📜Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
