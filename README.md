@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Kemiso Malatsi 👋<br>🔐 Cybersecurity professional with a passion for programming and secure systems.<br>💻 I build, break, and protect software — blending code with cybersecurity.<br>🌱 Passionate about open-source, ethical hacking, and secure software practices. <br>💬 Let's talk about ethical hacking, secure coding, or anything tech-related..<br>😄 Fun fact: Every time I change my password, I also change my dog’s name.<br>
+Hi there, I'm Kemiso Malatsi 👋<br>🔐 Cybersecurity professional with a passion for programming and secure systems.<br>💻 I build, break, and protect software — blending code with security.<br>🌱 Passionate about open-source, ethical hacking, and secure software practices. <br>💬 Let's talk about ethical hacking, secure coding, or anything tech-related..<br>😄 Fun fact: Every time I change my password, I also change my dog’s name.<br>
 
 # 🛠️Projects
 
@@ -11,6 +11,16 @@ Hi there, I'm Kemiso Malatsi 👋<br>🔐 Cybersecurity professional with a pass
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+#📜 Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kemiso-malatsi-4673022b8/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@_nobody412?_t=ZM-8tR8nzbc1HZ&_r=1) 
